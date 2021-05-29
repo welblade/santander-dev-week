@@ -20,4 +20,5 @@
     <string name="tv_recarga">Recarga</string>
     <string name="tv_cartao_final">Cartão final</string>
     <string name="tv_cartao_final_numero">0082</string>
+    <string name="it_ativar_notificacao">Ativar notificação</string>
 </resources>
