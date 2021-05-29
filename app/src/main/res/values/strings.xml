@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Santander Dev Week</string>
+    <string name="tv_saldo_disponivel">Saldo disponível</string>
+    <string name="tv_simbolo_monetario">R$</string>
+    <string name="tv_saldo_valor">12.000,00</string>
+    <string name="tv_saldo_limite_valor">2.000,00</string>
+    <string name="tv_saldo_limite">Saldo + Limite:</string>
+    <string name="tv_saudacao">Olá,</string>
+    <string name="tv_nome_usuario">Leandro</string>
+    <string name="tv_agencia">Ag</string>
+    <string name="tv_agencia_numero">00000000</string>
+    <string name="tv_conta_corrente">Cc</string>
+    <string name="tv_conta_corrente_numero">00000000-00</string>
+    <string name="tv_ver_extrato">Ver extrato</string>
+    <string name="ib_recolher_elemento">Recolher elemento</string>
+    <string name="im_icone_update">Ícone Update</string>
+    <string name="tv_pagar">Pagar</string>
+    <string name="iv_cartao">Cartão</string>
+    <string name="tv_transferir">Transferir</string>
+    <string name="tv_recarga">Recarga</string>
+    <string name="tv_cartao_final">Cartão final</string>
+    <string name="tv_cartao_final_numero">0082</string>
+</resources>
